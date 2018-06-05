@@ -28,7 +28,7 @@ struct ticket
   {
   printf("\nEnter the given user id");
   scanf("%s",uid);
-  printf("\n Enter the captcha code shown");
+  printf("\n Enter the captcha code shown on the screen");
   scanf("%d",&pass);
  
   //checking....
